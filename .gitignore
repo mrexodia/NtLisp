@@ -14,9 +14,6 @@
 *.db-shm
 *.db-wal
 .vs/
-x64/Debug/
-x64/Release/
-
-LuaLib/x64/Release/
-
-LuaLib/x64/Debug/
+Debug/
+Release/
+x64/
